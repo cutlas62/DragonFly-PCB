@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [DragonFly.PcbDoc]
+   Generated File[Pick Place for DragonFly.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:40:04 On 18/03/2019
