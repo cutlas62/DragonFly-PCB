@@ -1,0 +1,169 @@
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=C22-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C38-1
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=C38-2
+Removed Pin From Net: NetName=GND Pin=C39-1
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=C39-2
+Removed Pin From Net: NetName=SCL Pin=IC1-12
+Removed Pin From Net: NetName=SDA Pin=IC1-13
+Removed Pin From Net: NetName=W25_CS_1 Pin=IC3-2
+Removed Pin From Net: NetName=W25_CS_2 Pin=IC3-4
+Removed Pin From Net: NetName=W25_CS_3 Pin=IC3-6
+Removed Pin From Net: NetName=GND Pin=IC3-7
+Removed Pin From Net: NetName=W25_CS_4 Pin=IC3-12
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=IC3-14
+Removed Pin From Net: NetName=GND Pin=IC4-4
+Removed Pin From Net: NetName=GND Pin=IC4-5
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=IC4-6
+Removed Pin From Net: NetName=GND Pin=IC4-8
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=IC4-16
+Removed Pin From Net: NetName=GND Pin=IC5-4
+Removed Pin From Net: NetName=GND Pin=IC5-5
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=IC5-6
+Removed Pin From Net: NetName=GND Pin=IC5-8
+Removed Pin From Net: NetName=LD1_B Pin=IC5-13
+Removed Pin From Net: NetName=LD1_G Pin=IC5-14
+Removed Pin From Net: NetName=LD1_R Pin=IC5-15
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=IC5-16
+Removed Pin From Net: NetName=MISO Pin=IC8-1
+Removed Pin From Net: NetName=SCLK Pin=IC8-13
+Removed Pin From Net: NetName=MOSI Pin=IC8-14
+Removed Pin From Net: NetName=GND Pin=IC10-A1
+Removed Pin From Net: NetName=SCLK Pin=IC10-A3
+Removed Pin From Net: NetName=MOSI Pin=IC10-B4
+Removed Pin From Net: NetName=MISO Pin=IC10-C1
+Removed Pin From Net: NetName=SCLK Pin=IC13-2
+Removed Pin From Net: NetName=MOSI Pin=IC13-4
+Removed Pin From Net: NetName=MISO Pin=IC13-5
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=IC15-1
+Removed Pin From Net: NetName=GND Pin=IC15-2
+Removed Pin From Net: NetName=GND Pin=IC15-3
+Removed Pin From Net: NetName=GND Pin=IC15-4
+Removed Pin From Net: NetName=GND Pin=IC15-6
+Removed Pin From Net: NetName=SDA Pin=IC15-9
+Removed Pin From Net: NetName=SCL Pin=IC15-10
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=IC15-11
+Removed Pin From Net: NetName=GND Pin=IC15-12
+Removed Pin From Net: NetName=VMOTOR1 Pin=LD7-1
+Removed Pin From Net: NetName=VMOTOR2 Pin=LD8-1
+Removed Pin From Net: NetName=VMOTOR3 Pin=LD9-1
+Removed Pin From Net: NetName=VMOTOR4 Pin=LD10-1
+Removed Pin From Net: NetName=VBAT Pin=R19-1
+Removed Pin From Net: NetName=VBAT Pin=R20-1
+Removed Pin From Net: NetName=VBAT Pin=R21-1
+Removed Pin From Net: NetName=VBAT Pin=R22-1
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=R23-2
+Change Component Footprint: Designator=IC3 Old Footprint=74LCX04BQXFSCT - QFN New Footprint=VCNL4040M3OE
+Change Component Comment : Designator=IC3 Old Comment=74LCX04BQX New Comment=VCNL4040
+Change Component Comment : Designator=IC9 Old Comment=W25X40CL New Comment=W25Q80DV
+Change Component Comment : Designator=IC11 Old Comment=W25X40CL New Comment=W25Q80DV
+Change Component Comment : Designator=IC12 Old Comment=W25X40CL New Comment=W25Q80DV
+Change Component Comment : Designator=IC14 Old Comment=W25X40CL New Comment=W25Q80DV
+Change component parameters: Designator = "IC3"; Footprint = "VCNL4040M3OE"; UniqueID = "\DKPMPKSF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DigiKey Part #"; Value = "VCNL4040M3OECT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC9"; Footprint = "8 - Pad USON 2x3mm"; UniqueID = "\IONCPFSE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DigiKey Part #"; Value = "W25Q80DVUXIECT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC11"; Footprint = "8 - Pad USON 2x3mm"; UniqueID = "\KNACQWPU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DigiKey Part #"; Value = "W25Q80DVUXIECT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC12"; Footprint = "8 - Pad USON 2x3mm"; UniqueID = "\BIAAOUVH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DigiKey Part #"; Value = "W25Q80DVUXIECT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC14"; Footprint = "8 - Pad USON 2x3mm"; UniqueID = "\LHXIUCVJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DigiKey Part #"; Value = "W25Q80DVUXIECT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "0402 - Resistor"; UniqueID = "\WQISVUDV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "0402 - Resistor"; UniqueID = "\PFCAAYWN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=C7(0402 - Capacitor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0402 - Capacitor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "2.2u"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0402 - Resistor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22"; VariantName = "[No Variations]"
+Added Component: Designator=SP9(Signal_point_1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=SP10(Signal_point_1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=SP11(Signal_point_1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=SP12(Signal_point_1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=SP13(Signal_point_1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=SP14(Signal_point_1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VDD3P3_CPU Pin=C11-2
+Added Pin To Net: NetName=W25_CS_4 Pin=IC1-12
+Added Pin To Net: NetName=LD1_R Pin=IC1-13
+Added Pin To Net: NetName=LD1_G Pin=IC1-28
+Added Pin To Net: NetName=LD1_B Pin=IC1-29
+Added Pin To Net: NetName=SCL Pin=IC1-34
+Added Pin To Net: NetName=SDA Pin=IC1-35
+Added Pin To Net: NetName=W25_CS_1 Pin=IC1-38
+Added Pin To Net: NetName=W25_CS_3 Pin=IC1-39
+Added Pin To Net: NetName=W25_CS_2 Pin=IC1-42
+Added Pin To Net: NetName=GND Pin=IC3-1
+Added Pin To Net: NetName=VDD3P3_CPU Pin=IC3-4
+Added Pin To Net: NetName=SDA Pin=IC3-7
+Added Pin To Net: NetName=SCL Pin=IC3-8
+Added Pin To Net: NetName=VDD3P3_CPU Pin=IC8-1
+Added Pin To Net: NetName=VDD3P3_CPU Pin=IC8-12
+Added Pin To Net: NetName=SCL Pin=IC8-13
+Added Pin To Net: NetName=SDA Pin=IC8-14
+Added Pin To Net: NetName=VDD3P3_CPU Pin=IC10-A1
+Added Pin To Net: NetName=SCL Pin=IC10-A3
+Added Pin To Net: NetName=GND Pin=IC10-A5
+Added Pin To Net: NetName=SDA Pin=IC10-B4
+Added Pin To Net: NetName=GND Pin=IC10-C1
+Added Pin To Net: NetName=SCL Pin=IC13-2
+Added Pin To Net: NetName=SDA Pin=IC13-4
+Added Pin To Net: NetName=GND Pin=IC13-5
+Added Pin To Net: NetName=VDD3P3_CPU Pin=IC13-6
+Added Pin To Net: NetName=VBAT Pin=LD5-1
+Added Pin To Net: NetName=VBAT Pin=LD6-1
+Added Pin To Net: NetName=VBAT Pin=LD7-1
+Added Pin To Net: NetName=VBAT Pin=LD8-1
+Added Pin To Net: NetName=VBAT Pin=LD9-1
+Added Pin To Net: NetName=VBAT Pin=LD10-1
+Added Pin To Net: NetName=LD1_R Pin=N8-2
+Added Pin To Net: NetName=LD1_G Pin=N9-2
+Added Pin To Net: NetName=LD1_B Pin=N10-2
+Added Pin To Net: NetName=VDD3P3_CPU Pin=R5-2
+Added Pin To Net: NetName=VMOTOR1 Pin=R19-1
+Added Pin To Net: NetName=VMOTOR2 Pin=R20-1
+Added Pin To Net: NetName=VMOTOR3 Pin=R21-1
+Added Pin To Net: NetName=VMOTOR4 Pin=R22-1
+Added Pin To Net: NetName=VDD3P3_CPU Pin=SP9-0
+Added Pin To Net: NetName=MTMS Pin=SP10-0
+Added Pin To Net: NetName=MTDI Pin=SP11-0
+Added Pin To Net: NetName=MTCK Pin=SP12-0
+Added Pin To Net: NetName=MTDO Pin=SP13-0
+Added Pin To Net: NetName=GND Pin=SP14-0
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=IC3-3
+Added Pin To Net: NetName=NetC7_2 Pin=R5-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetIC3_2 Pin=IC3-2
+Added Pin To Net: NetName=NetIC3_2 Pin=IC3-5
+Added Net: Name=NetIC3_2

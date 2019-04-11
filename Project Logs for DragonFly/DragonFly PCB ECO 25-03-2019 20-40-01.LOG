@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=VDD3P3 Pin=C11-2

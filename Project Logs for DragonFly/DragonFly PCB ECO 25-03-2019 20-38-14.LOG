@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=Y1 Old Footprint=XTAL 2.5x2mm 4-SMD New Footprint=XTAL 1.6X1.2MM 4-SMD
+Change component parameters: Designator = "Y1"; Footprint = "XTAL 1.6X1.2MM 4-SMD"; UniqueID = "\HFYNTGXF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DigiKey Part #"; Value = "535-13987-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "40 MHz"; VariantName = "[No Variations]"

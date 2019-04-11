@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=GND Pin=N1-2
+Removed Pin From Net: NetName=GND Pin=N2-2
+Removed Pin From Net: NetName=GND Pin=N3-2
+Removed Pin From Net: NetName=GND Pin=N4-2
+Removed Pin From Net: NetName=LD1_R Pin=N5-1
+Removed Pin From Net: NetName=GND Pin=N5-2
+Removed Pin From Net: NetName=LD1_G Pin=N6-1
+Removed Pin From Net: NetName=GND Pin=N6-2
+Removed Pin From Net: NetName=LD1_B Pin=N7-1
+Removed Pin From Net: NetName=GND Pin=N7-2
+Removed Pin From Net: NetName=LD2_R Pin=N8-1
+Removed Pin From Net: NetName=GND Pin=N8-2
+Removed Pin From Net: NetName=LD2_G Pin=N9-1
+Removed Pin From Net: NetName=GND Pin=N9-2
+Removed Pin From Net: NetName=LD2_B Pin=N10-1
+Removed Pin From Net: NetName=GND Pin=N10-2
+Change Component Footprint: Designator=N1 Old Footprint=SOT 23 - 3 New Footprint=DFN1006-3
+Change Component Footprint: Designator=N2 Old Footprint=SOT 23 - 3 New Footprint=DFN1006-3
+Change Component Footprint: Designator=N3 Old Footprint=SOT 23 - 3 New Footprint=DFN1006-3
+Change Component Footprint: Designator=N4 Old Footprint=SOT 23 - 3 New Footprint=DFN1006-3
+Change Component Footprint: Designator=N5 Old Footprint=SOT 23 - 3 New Footprint=DFN1006-3
+Change Component Footprint: Designator=N6 Old Footprint=SOT 23 - 3 New Footprint=DFN1006-3
+Change Component Footprint: Designator=N7 Old Footprint=SOT 23 - 3 New Footprint=DFN1006-3
+Change Component Footprint: Designator=N8 Old Footprint=SOT 23 - 3 New Footprint=DFN1006-3
+Change Component Footprint: Designator=N9 Old Footprint=SOT 23 - 3 New Footprint=DFN1006-3
+Change Component Footprint: Designator=N10 Old Footprint=SOT 23 - 3 New Footprint=DFN1006-3
+Added Pin To Net: NetName=GND Pin=N1-1
+Added Pin To Net: NetName=GND Pin=N2-1
+Added Pin To Net: NetName=GND Pin=N3-1
+Added Pin To Net: NetName=GND Pin=N4-1
+Added Pin To Net: NetName=GND Pin=N5-1
+Added Pin To Net: NetName=LD1_R Pin=N5-2
+Added Pin To Net: NetName=GND Pin=N6-1
+Added Pin To Net: NetName=LD1_G Pin=N6-2
+Added Pin To Net: NetName=GND Pin=N7-1
+Added Pin To Net: NetName=LD1_B Pin=N7-2
+Added Pin To Net: NetName=GND Pin=N8-1
+Added Pin To Net: NetName=LD2_R Pin=N8-2
+Added Pin To Net: NetName=GND Pin=N9-1
+Added Pin To Net: NetName=LD2_G Pin=N9-2
+Added Pin To Net: NetName=GND Pin=N10-1
+Added Pin To Net: NetName=LD2_B Pin=N10-2
