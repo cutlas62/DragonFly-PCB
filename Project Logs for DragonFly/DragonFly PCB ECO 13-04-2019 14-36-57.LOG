@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=VBAT Pin=P1-2
+Added Component: Designator=SP15(Signal_point_1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=SP16(Signal_point_1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=SP15-0
+Added Pin To Net: NetName=GND Pin=SP16-0
