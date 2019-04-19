@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=W25_CS_4 Pin=IC1-14
+Removed Pin From Net: NetName=W25_CS_1 Pin=IC1-35
+Added Pin To Net: NetName=W25_CS_1 Pin=IC1-14
+Added Pin To Net: NetName=W25_CS_4 Pin=IC1-35
