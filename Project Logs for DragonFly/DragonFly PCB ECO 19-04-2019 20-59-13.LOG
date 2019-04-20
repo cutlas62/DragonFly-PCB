@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=C25-2
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=IC1-9
+Removed Pin From Net: NetName=SCL Pin=IC1-23
+Removed Pin From Net: NetName=SDA Pin=IC1-24
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=IC6-1
+Removed Pin From Net: NetName=U0RXD Pin=IC6-2
+Removed Pin From Net: NetName=GND Pin=IC6-3
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=IC6-8
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=IC6-9
+Removed Pin From Net: NetName=VBUS Pin=IC6-10
+Removed Pin From Net: NetName=GND Pin=IC6-13
+Removed Pin From Net: NetName=U0TXD Pin=IC6-15
+Removed Pin From Net: NetName=GND Pin=IC6-17
+Removed Pin From Net: NetName=GND Pin=IC7-2
+Removed Pin From Net: NetName=D_P Pin=IC7-4
+Removed Pin From Net: NetName=VBUS Pin=IC7-5
+Removed Pin From Net: NetName=D_N Pin=IC7-6
+Removed Pin From Net: NetName=SDA Pin=R1-1
+Removed Pin From Net: NetName=SCL Pin=R2-1
+Removed Pin From Net: NetName=NetIC6_5 Pin=R10-1
+Removed Pin From Net: NetName=VDD3P3_CPU Pin=SP9-0
+Change Component Footprint: Designator=IC6 Old Footprint=FT230XQ - QFN127P600-8N New Footprint=DFN2020-6
+Change Component Comment : Designator=IC6 Old Comment=FT230XQ-R New Comment=PBSS4260PAN
+Change Component Designator: OldDesignator=SP14 NewDesignator=SP1
+Change component parameters: Designator = "IC6"; Footprint = "DFN2020-6"; UniqueID = "\OJIGCHJR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DigiKey Part #"; Value = "1727-1075-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "0402 - Resistor"; UniqueID = "\GVMXIISR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "0402 - Resistor"; UniqueID = "\IOEMQWAL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(QFN20-127P600-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DigiKey Part #"; Value = "768-1128-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=IC5(SOT886)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DigiKey Part #"; Value = "1727-4161-6-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R23(0402 - Resistor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R24(0402 - Resistor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R25(0402 - Resistor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=SP2(Signal_point_1mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=C25-2
+Added Pin To Net: NetName=VDD3P3_CPU Pin=IC1-18
+Added Pin To Net: NetName=U0TXD Pin=IC4-1
+Added Pin To Net: NetName=GND Pin=IC4-3
+Added Pin To Net: NetName=VDD3P3_CPU Pin=IC4-10
+Added Pin To Net: NetName=VBUS Pin=IC4-11
+Added Pin To Net: NetName=VBUS Pin=IC4-12
+Added Pin To Net: NetName=GND Pin=IC4-13
+Added Pin To Net: NetName=U0RXD Pin=IC4-17
+Added Pin To Net: NetName=VDD3P3_CPU Pin=IC4-20
+Added Pin To Net: NetName=GND Pin=IC4-21
+Added Pin To Net: NetName=GND Pin=IC5-2
+Added Pin To Net: NetName=D_P Pin=IC5-4
+Added Pin To Net: NetName=VBUS Pin=IC5-5
+Added Pin To Net: NetName=D_N Pin=IC5-6
+Added Pin To Net: NetName=VDD3P3_CPU Pin=R23-1
+Added Pin To Net: NetName=NetIC6_5 Pin=R25-2
+Added Pin To Net: NetName=GND Pin=SP2-0
+Added Pin To Net: NetName=CHIP_PU Pin=IC1-9
+Added Pin To Net: NetName=CHIP_PU Pin=IC6-6
+Added Pin To Net: NetName=CHIP_PU Pin=IC6-6
+Added Pin To Net: NetName=CHIP_PU Pin=R23-2
+Added Net: Name=CHIP_PU
+Added Pin To Net: NetName=DTR Pin=IC4-18
+Added Pin To Net: NetName=DTR Pin=IC6-3
+Added Pin To Net: NetName=DTR Pin=IC6-3
+Added Pin To Net: NetName=DTR Pin=R24-1
+Added Net: Name=DTR
+Added Pin To Net: NetName=GPIO0 Pin=IC1-23
+Added Pin To Net: NetName=GPIO0 Pin=IC6-4
+Added Net: Name=GPIO0
+Added Pin To Net: NetName=NetIC1_20 Pin=IC1-20
+Added Pin To Net: NetName=NetIC1_20 Pin=R2-1
+Added Net: Name=NetIC1_20
+Added Pin To Net: NetName=NetIC1_21 Pin=IC1-21
+Added Pin To Net: NetName=NetIC1_21 Pin=R1-1
+Added Net: Name=NetIC1_21
+Added Pin To Net: NetName=NetIC4_7 Pin=IC4-7
+Added Pin To Net: NetName=NetIC4_7 Pin=R10-1
+Added Net: Name=NetIC4_7
+Added Pin To Net: NetName=NetIC4_8 Pin=IC4-8
+Added Pin To Net: NetName=NetIC4_8 Pin=R8-2
+Added Net: Name=NetIC4_8
+Added Pin To Net: NetName=NetIC4_9 Pin=IC4-9
+Added Pin To Net: NetName=NetIC4_9 Pin=R7-2
+Added Net: Name=NetIC4_9
+Added Pin To Net: NetName=NetIC4_14 Pin=IC4-14
+Added Pin To Net: NetName=NetIC4_14 Pin=R9-1
+Added Net: Name=NetIC4_14
+Added Pin To Net: NetName=NetIC5_1 Pin=IC5-1
+Added Pin To Net: NetName=NetIC5_1 Pin=Z1-2
+Added Net: Name=NetIC5_1
+Added Pin To Net: NetName=NetIC5_3 Pin=IC5-3
+Added Pin To Net: NetName=NetIC5_3 Pin=Z1-3
+Added Net: Name=NetIC5_3
+Added Pin To Net: NetName=NetIC6_2 Pin=IC6-2
+Added Pin To Net: NetName=NetIC6_2 Pin=R24-2
+Added Net: Name=NetIC6_2
+Added Pin To Net: NetName=RTS Pin=IC4-19
+Added Pin To Net: NetName=RTS Pin=IC6-1
+Added Pin To Net: NetName=RTS Pin=R25-1
+Added Net: Name=RTS
