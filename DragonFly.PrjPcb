@@ -207,6 +207,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WAUDHSOY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DragonFly\Design Rule Check - DragonFly.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
