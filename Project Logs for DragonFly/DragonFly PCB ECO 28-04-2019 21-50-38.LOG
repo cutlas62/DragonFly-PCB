@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=RTS Pin=IC6-1
+Removed Pin From Net: NetName=DTR Pin=IC6-3
+Removed Pin From Net: NetName=DTR Pin=IC6-3
+Removed Pin From Net: NetName=GPIO0 Pin=IC6-4
+Removed Pin From Net: NetName=CHIP_PU Pin=IC6-6
+Removed Pin From Net: NetName=CHIP_PU Pin=IC6-6
+Change component parameters: Designator = "N1"; Footprint = "DFN1006-3"; UniqueID = "\UHHKGYRF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DigiKey Part #"; Value = "1727-2316-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "N2"; Footprint = "DFN1006-3"; UniqueID = "\VNKBKMEB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DigiKey Part #"; Value = "1727-2316-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "N3"; Footprint = "DFN1006-3"; UniqueID = "\IUNMVBEE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DigiKey Part #"; Value = "1727-2316-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "N4"; Footprint = "DFN1006-3"; UniqueID = "\MIMWAHWF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DigiKey Part #"; Value = "1727-2316-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24"; Footprint = "0402 - Capacitor"; UniqueID = "\JGGAFHWE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=N11(DFN1006-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DigiKey Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=N12(DFN1006-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DigiKey Part #"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RTS Pin=N11-1
+Added Pin To Net: NetName=CHIP_PU Pin=N11-3
+Added Pin To Net: NetName=GPIO0 Pin=N12-1
+Added Pin To Net: NetName=DTR Pin=N12-3
+Added Pin To Net: NetName=NetN11_2 Pin=N11-2
+Added Pin To Net: NetName=NetN11_2 Pin=R24-2
+Added Net: Name=NetN11_2
+Added Pin To Net: NetName=NetN12_2 Pin=N12-2
+Added Pin To Net: NetName=NetN12_2 Pin=R25-2
+Added Net: Name=NetN12_2
