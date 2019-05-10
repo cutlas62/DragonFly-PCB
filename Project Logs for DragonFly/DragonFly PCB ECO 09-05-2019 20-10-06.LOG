@@ -1,0 +1,22 @@
+Added Component: Designator=LD5(0603 - led)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LD6(0603 - led)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(0402 - Resistor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "475"; VariantName = "[No Variations]"
+Added Component: Designator=R18(0402 - Resistor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "475"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=LD5-1
+Added Pin To Net: NetName=NetLD5_2 Pin=LD5-2
+Added Pin To Net: NetName=VBAT Pin=LD6-1
+Added Pin To Net: NetName=NetLD6_2 Pin=LD6-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=NetLD5_2 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=NetLD6_2 Pin=R18-2
